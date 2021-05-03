@@ -268,3 +268,32 @@ button:hover,
 .button.button-wordpress:hover,
 .button.button-wordpress:focus {
   filter: brightness(90%) }
+
+
+
+
+/* ------------------- Custom ------------------- */
+
+/* WNPower */
+.button.button-wnpower {
+  color: #FFFFFF;
+  background-color: #38C6F6 }
+.button.button-wnpower:hover,
+.button.button-wnpower:focus {
+  filter: brightness(90%) }
+
+/* CEHOST */
+.button.button-cehost {
+  color: #000000;
+  background-color: #D7DFE2 }
+.button.button-cehost:hover,
+.button.button-cehost:focus {
+  filter: brightness(90%) }
+
+/* iFactura */
+.button.button-ifactura {
+  color: #FFFFFF;
+  background-color:  #2A363F }
+.button.button-ifactura:hover,
+.button.button-ifactura:focus {
+  filter: brightness(90%) }
